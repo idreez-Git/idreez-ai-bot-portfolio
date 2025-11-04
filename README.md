@@ -1,7 +1,7 @@
-# idreez-ai-bot-portfolio
+# Idreez | AI & Trading App Developer
 AI Bot Engineer | Trading Automation | Solana | Telegram | Copy Trading | Forecast Systems
 # 👋 Idreez | AI Bot Engineer
-**AI & Trading Bot Developer | Solana • Binance • Telegram Automation**
+AI & Trading Bot Developer | Solana • Binance • Telegram Automation
 
 ---
 
